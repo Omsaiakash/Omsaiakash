@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Omsaiakash
+- 👀 I’m interested in Quality testing and Sofware testing as it is the mandatory step to identify the defects and bugs to prevent the damage to be done in future.
+- 🌱 I’m currently learning Manual testing and how to implement in a real time scenarios or Projects. 
+- 💞️ I’m looking to collaborate on Working as a Software tester by learning advanced tools like Selenium, Jira etc., Tools.
+- 📫 Please do reach me at itzakash55@gmail.com.
